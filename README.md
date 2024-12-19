@@ -20,6 +20,8 @@ This project covers:
 - **FastAPI Backend**: API endpoints for managing document uploads, processing queries, and delivering responses to the frontend.
   
 - **Streamlit Frontend**: An intuitive interface that allows users to interact with the backend for uploading documents and asking questions.
+<img width="699" alt="langchain2" src="https://github.com/user-attachments/assets/5c44562e-e468-4967-8004-1cded80f4a04" />
+
 
 ## Prerequisites
 
