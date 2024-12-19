@@ -1,4 +1,5 @@
 # RAG Chatbot with FastAPI Backend and Streamlit Frontend
+<img width="773" alt="RAG_Chatboat" src="https://github.com/user-attachments/assets/b135dd2e-abab-4b59-9051-795bda13e6b2" />
 
 ## Overview
 
